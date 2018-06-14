@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Nrg_EmailVerificator>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Nrg_EmailVerificator>
+    </modules>
+</config>
